@@ -19,7 +19,9 @@ The methodology of this project will follow the below procedures: • Data explo
 
 In this paper, healthcare fraud, types of healthcare frauds, types and sources of healthcare data, and methods for healthcare frauds were studied. Various studies
 are reviewed in the literature. It is deduced that in the healthcare industry,‘Data’ is a paramount issue. The major part of the data comes from governmental resources and private insurance companies. Mainly, machine learning and data mining are used for Healthcare fraud detection. Supervised, unsupervised and semi-supervised learning are the three categories of Machine learning approaches. In most of the cases, semi-supervised learning approaches are used by many researchers. But, to detect frauds in healthcare system more efficiently, new semisupervised learning approaches can be proposed in few cases. But, to conceal all the instances of the healthcare fraud, there doesn’t exist any particular standard approach or patterns. It can an be concluded from this review that the advanced machine learning techniques and newly acquired sources of the healthcare data would be forthcoming subjects of interest in order to make the healthcare affordable, to improve the effectiveness of healthcare fraud detection and to bestow top quality on healthcare systems.
-#REFERENCES
+
+#REFERENCES:
+
 [1] Abdallah, A., Maarof, M. A., & Zainal, A. (2016). Fraud detection system: A survey. Journal of Network and Computer Applications, 68, 90-113.
 [2] Behdad, Mohammad, et al. "Nature-inspired techniques in the context of fraud detection." IEEE Transactions on Systems, Man, and Cybernetics, Part C(Applications and Reviews) 42.6 (2012): 1273- 1290.
 [3] Konasani, Venkatareddy, Mukul Biswas, and Praveen Krishnan Koleth."Healthcare fraud management using big data analytics." An Unpublished eport by Trendwise Analytics, Bangalore, India (2012).
