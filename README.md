@@ -1,21 +1,27 @@
 # MEDICARE-FRAUD-DETECTION
-#INTRODUCTION
+#INTRODUCTION:
+
 Healthcare has and perpetuates to be an integral component in people’s lives.The human body is a compound structure. Hence, it is essential to havespecialist physicians qualified to diagnose and treat diseases in different parts ofthe body. This induces several types of treatment procedures that physicianscarry out for patients in different specialties. The aim of the health industry is to successfully serve as many patients as possible. But with every treatment thereis a price associated with every service provided. Physicians, drug dealers and medical staff have to be paid for their time and prowess including various medical amenities. Oftentimes these prices are not affordable to the patients.Therefore, insurance schemes are used to dispense costs over all patients in the healthcare system and pay for the requisite people and equipment. As with any insurance system, there is a possibility for misuse or fraud activities. Healthcare fraud is increasingly apperceived as one of serious social concerns. Clearly, healthcare fraud is a problem for the government and there is a need for more effective detection methods. To detect healthcare fraud, it requires great amount of efforts with extensive medical knowledge. Traditionally, healthcare fraud detection greatly depends on the experience of domain experts, which is erroneous enough, expensive and time consuming. Manual detection of healthcare fraud involves a few auditors who manually review and identify the suspicious medical insurance claims which requires much effort. But the modern advances of machine learning and data mining techniques led to more efficient and automated detection of healthcare frauds. There has been a growing interest in mining healthcare data for fraud detection in the recent years. This paper reviews the various approaches used for detecting the fraudulent activities in Health insurance claim data.
 
-#PROBLEM STAEMENT
+#PROBLEM STAEMENT:
+
 Building an innovative data science model that help in predicting fraud in medical insurance industry by using real time analysis and classification algorithm. This tool can be used by the government so that it benefits the patients, pharmacy, doctors which eventually help in gaining credibility to industry, tackle the increasing costs of healthcare and handle the impact of fraud. Medicinal services misrepresentation is a principle issue that causes generous fiscal misfortune in Medicare/Medicaid and protection industry. The Centres for Medicare and Medicaid Services (CMS) have arrangement Medicare Part D programs since 2006. CMS depends on it to identify and forestall extortion, waste and maltreatment in Part D program. Be that as it may, utilizing the customary techniques, the misrepresentation location is directed on arbitrary examples by human specialists. The results are the examples may be deluding or manual identification is exorbitant. As per Office of Inspector General report: Since 2006, the Medicare Fraud has quickly expanded. The extortion designs incorporate the accompanying four sorts: • Fraud by Service Providers (Doctors, hospitals, pharmacies) • Fraud by Insurance subscribers (patient or patient’s employers) • Fraud by insurance carriers • Conspiracy Frauds (involved with all parties).The main objectives of this project are: • Build a basic Data Model to show the connections among the distinctive datasets and distinguish the key capabilities for extortion recognitions • Build a thorough AI model to recognize misrepresentation design dependent on the various highlights: Service Providers (Doctors, Pharmacies), Insurance supporters (patients), Geo-segment and usually misuse drugs medicines • Setup a benchmark measurement to quantify and assess the test result • Market-prepared item
 
-#DATASETS 
+#DATASETS:
+
 The following public datasets were used: • Part D Prescriber Dataset • Excluded (LEIE) dataset • Payment Received dataset Dataset Link: • CMS Part D datasets: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html • LEIE Datasets: https://oig.hhs.gov/exclusions/exclusions_list.asp Office of Inspector General Reports https://oig.hhs.gov/reports-and-publications/portfolio/index.asp • FDA datasets https://www.fda.gov/Drugs/InformationOnDrugs/ucm079750.htm#collapseOne
 
-#METHODOLOGY
+#METHODOLOGY:
+
 The methodology of this project will follow the below procedures: • Data exploration, cleansing and preparation • Build a simple data model to join all datasets • Feature engineering to choose the effective feature sets for the different fraud patterns • Build a machine learning model to detect the different fraud patterns.
 
-#CONCLUSION
+#CONCLUSION:
+
 In this paper, healthcare fraud, types of healthcare frauds, types and sources of healthcare data, and methods for healthcare frauds were studied. Various studies
 are reviewed in the literature. It is deduced that in the healthcare industry,‘Data’ is a paramount issue. The major part of the data comes from governmental resources and private insurance companies. Mainly, machine learning and data mining are used for Healthcare fraud detection. Supervised, unsupervised and semi-supervised learning are the three categories of Machine learning approaches. In most of the cases, semi-supervised learning approaches are used by many researchers. But, to detect frauds in healthcare system more efficiently, new semisupervised learning approaches can be proposed in few cases. But, to conceal all the instances of the healthcare fraud, there doesn’t exist any particular standard approach or patterns. It can an be concluded from this review that the advanced machine learning techniques and newly acquired sources of the healthcare data would be forthcoming subjects of interest in order to make the healthcare affordable, to improve the effectiveness of healthcare fraud detection and to bestow top quality on healthcare systems.
 
-#REFERENCES
+#REFERENCES:
+
 [1] Abdallah, A., Maarof, M. A., & Zainal, A. (2016). Fraud detection system:
 A survey. Journal of Network and Computer Applications, 68, 90-113.
 [2] Behdad, Mohammad, et al. "Nature-inspired techniques in the context of
